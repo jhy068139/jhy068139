@@ -3,24 +3,21 @@
   ###### 새로움을 시도하며,성장하기 위해 도전합니다.🌱
   
 ### MAIN TOOL
-< image src = "https://user-images.githubusercontent.com/64052098/112984967-865a7b80-919a-11eb-87cb-5625160a9798.jpg" height="50">
-< image src = "https://user-images.githubusercontent.com/64052098/112984952-835f8b00-919a-11eb-9bb6-b2cd662d52a8.jpg" height="50">
-< image src = "https://user-images.githubusercontent.com/64052098/112984952-835f8b00-919a-11eb-9bb6-b2cd662d52a8.jpg" height="50">
-< image src = "https://user-images.githubusercontent.com/64052098/112984957-83f82180-919a-11eb-8d61-9dfb3283b10d.jpg" height="50">
-< image src = "https://user-images.githubusercontent.com/64052098/112984958-8490b800-919a-11eb-8d51-3209bf397852.jpg" height="50">
-< image src = "https://user-images.githubusercontent.com/64052098/112984960-85294e80-919a-11eb-8ee1-21001cd0a388.jpg" height="50">
-  
-< image src = "https://user-images.githubusercontent.com/64052098/112984961-85294e80-919a-11eb-8df7-d6b7d2b2f445.jpg" height="50">
-< image src = "https://user-images.githubusercontent.com/64052098/112984964-85c1e500-919a-11eb-9ba8-667b3b787e7f.jpg" height="50">
-< image src = "https://user-images.githubusercontent.com/64052098/112984966-85c1e500-919a-11eb-94bf-71c793b473f5.jpg" height="50">
+![3dsmax](https://user-images.githubusercontent.com/64052098/112985787-9b83da00-919b-11eb-9040-e87bc24b4521.jpg)
+![substance painter](https://user-images.githubusercontent.com/64052098/112985791-9cb50700-919b-11eb-9636-b94029d21134.jpg)
+![zbrush](https://user-images.githubusercontent.com/64052098/112985780-9a52ad00-919b-11eb-9908-7a7d6f687b6f.jpg)
+
+### ENGINE
+![unity](https://user-images.githubusercontent.com/64052098/112985793-9cb50700-919b-11eb-9592-50466453336c.jpg)
+![unreal](https://user-images.githubusercontent.com/64052098/112985795-9d4d9d80-919b-11eb-8ffa-b1b230c5cc22.jpg)
+![트윈모션](https://user-images.githubusercontent.com/64052098/112985784-9b83da00-919b-11eb-8c07-b9ac515a1351.jpg)
 
 
 
+### SUB TOOL
+![blender](https://user-images.githubusercontent.com/64052098/112985789-9c1c7080-919b-11eb-86a4-cc018d64a3f9.jpg)
+![vegas](https://user-images.githubusercontent.com/64052098/112985798-9d4d9d80-919b-11eb-9515-bb0a6f55c900.jpg)
 
 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
