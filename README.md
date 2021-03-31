@@ -34,5 +34,5 @@
 [(@sum_flower_83)](https://www.instagram.com/sum_flower_83/)
 
 [포트폴리오블로그](https://hayeo-83.tistory.com/)
-
+[노션](https://www.notion.so/3D-MODELER-4fdeadbf9c8a49ecac18ef3776de7ccd)
 
