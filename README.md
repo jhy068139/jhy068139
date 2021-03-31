@@ -12,8 +12,7 @@
 ### ENGINE
 ![unity](https://user-images.githubusercontent.com/64052098/113071727-5219a600-9200-11eb-9c7d-bc5005fe0cdd.jpg)
 ![unreal](https://user-images.githubusercontent.com/64052098/113071731-534ad300-9200-11eb-92b6-db5193fe2a7e.jpg)
-![트윈모션](https://user-images.githubusercontent.com/64052098/113071732-534ad300-9200-11eb-8f78-a064d02bc22f.jpg)![blender](https://user-images.githubusercontent.com/64052098/113071745-5ba30e00-9200-11eb-99d1-345a9446583d.jpg)
-
+![트윈모션](https://user-images.githubusercontent.com/64052098/113071732-534ad300-9200-11eb-8f78-a064d02bc22f.jpg)
 
 
 ### SUB TOOL
