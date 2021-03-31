@@ -1,9 +1,9 @@
 
 ## JUNG HAYEON : GAME 3D BACKGROUND MODELER
-
   ###### 새로움을 시도하며,성장하기 위해 도전합니다.🌱
   
-### MAIN TOOL
+### 🛠MAIN TOOL🛠
+
 ![substance painter](https://user-images.githubusercontent.com/64052098/113071698-43cb8a00-9200-11eb-917a-c580166ccb01.jpg)
 ![zbrush](https://user-images.githubusercontent.com/64052098/113071702-44642080-9200-11eb-8dbd-8791f96f0032.jpg)
 ![3dsmax](https://user-images.githubusercontent.com/64052098/113071703-44fcb700-9200-11eb-8560-f5f0c65045c5.jpg)
