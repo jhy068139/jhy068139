@@ -1,4 +1,5 @@
 
+
 ## JUNG HAYEON : GAME 3D BACKGROUND MODELER
   ###### 새로움을 시도하며,성장하기 위해 도전합니다.🌱
   
@@ -21,4 +22,5 @@
 
 #### ✨ME✨
 
-
+<img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a>
+[유튜브링크]("https://www.youtube.com/channel/UCoIFVow-CfkeeCpyHPb8K4Q")
