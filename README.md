@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JUNG%20HAYEON&fontSize=90)
 
   ###### 새로움을 시도하며,성장하기 위해 도전합니다.🌱
-  
+  * * *
 ### 🛠MAIN TOOL🛠
 
 ![substance painter](https://user-images.githubusercontent.com/64052098/113071698-43cb8a00-9200-11eb-917a-c580166ccb01.jpg)
@@ -20,6 +20,8 @@
 ![blender](https://user-images.githubusercontent.com/64052098/113071757-6067c200-9200-11eb-9679-347d64dd2d2f.jpg)
 ![트윈모션](https://user-images.githubusercontent.com/64052098/113071732-534ad300-9200-11eb-8f78-a064d02bc22f.jpg)
 
+* * *
+
 #### ✨ME✨
 
 
@@ -34,5 +36,6 @@
 [(@sum_flower_83)](https://www.instagram.com/sum_flower_83/)
 
 [포트폴리오블로그](https://hayeo-83.tistory.com/)
+
 [노션](https://www.notion.so/3D-MODELER-4fdeadbf9c8a49ecac18ef3776de7ccd)
 
