@@ -22,5 +22,17 @@
 
 #### ✨ME✨
 
+
+
 <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a>
-[유튜브링크](https://www.youtube.com/channel/UCoIFVow-CfkeeCpyHPb8K4Q)
+[하모미](https://www.youtube.com/channel/UCoIFVow-CfkeeCpyHPb8K4Q)
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+[(@hamomi_3d)](https://www.instagram.com/hamomi_3d/)
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+[(@sum_flower_83)](https://www.instagram.com/sum_flower_83/)
+
+[포트폴리오블로그](https://hayeo-83.tistory.com/)
+
+
