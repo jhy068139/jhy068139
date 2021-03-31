@@ -23,4 +23,4 @@
 #### ✨ME✨
 
 <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a>
-[유튜브링크]("https://www.youtube.com/channel/UCoIFVow-CfkeeCpyHPb8K4Q")
+[유튜브링크](https://www.youtube.com/channel/UCoIFVow-CfkeeCpyHPb8K4Q)
